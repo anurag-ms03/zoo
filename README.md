@@ -19,11 +19,6 @@
 [ZodiacTemplate](https://github.com/anurag-ms03/zoo/tree/main/ZodiacTemplate) - A versatile template for creating stunning and responsive websites, inspired by the elegance of zodiac signs.
 
 
-
-### Other Projects
-
-- [Project Name](PROJECT_URL) - Brief description.
-
 ## Getting Started
 
 Follow these steps to get started with the Zoo projects:
@@ -64,5 +59,3 @@ Contribute to the Zoo's diversity! If you have a project to add or want to contr
   
 Feel free to contribute and make the Zoo even more diverse and exciting!
 ```
-
-Remember to replace "LOGO_URL" with the direct URL of your logo image and "ZODIACTEMPLATE_SCREENSHOT_URL" with the screenshot of your ZodiacTemplate project. Adjust other sections accordingly based on your specific projects.
