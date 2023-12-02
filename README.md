@@ -1,7 +1,7 @@
 
 ```markdown
 <div align="center">
-  <img src="LOGO_URL" alt="Zoo Logo" width="200">
+  <img src="https://pngtree.com/freepng/awesome-zoo-logo-design_5307330.html" alt="Zoo Logo" width="200">
   <h1>Zoo - Diverse and Fascinating Projects</h1>
   <p>Explore a collection of projects, each with unique features and purposes.</p>
   <a href="https://github.com/anurag-ms03/zoo">Explore Zoo</a>
