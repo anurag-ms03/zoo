@@ -1,7 +1,6 @@
 
-```markdown
 <div align="center">
-  <img src="https://pngtree.com/freepng/awesome-zoo-logo-design_5307330.html" alt="Zoo Logo" width="200">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwourRlsnPU6gTXuhHP4V8LifXcQJnn3WYA&usqp=CAU" alt="Zoo Logo" width="200">
   <h1>Zoo - Diverse and Fascinating Projects</h1>
   <p>Explore a collection of projects, each with unique features and purposes.</p>
   <a href="https://github.com/anurag-ms03/zoo">Explore Zoo</a>
@@ -12,7 +11,6 @@
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Projects
 
@@ -20,7 +18,7 @@
 
 [ZodiacTemplate](https://github.com/anurag-ms03/zoo/tree/main/ZodiacTemplate) - A versatile template for creating stunning and responsive websites, inspired by the elegance of zodiac signs.
 
-![ZodiacTemplate Screenshot](ZODIACTEMPLATE_SCREENSHOT_URL)
+
 
 ### Other Projects
 
